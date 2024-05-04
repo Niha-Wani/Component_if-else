@@ -3,9 +3,9 @@ import Dtime from "./dtime";
 function App() 
 {
   return (
-    <div>
-      <Dtime />
-    </div>
+      <div>
+         <Dtime />
+      </div>
   );
 }
 export default App;
